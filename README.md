@@ -2,4 +2,4 @@
 
 
 ###**Ctrl + E : 과거 히스토리 보기###
-<a href = https://github.com/CMHyuk/IntelliJ-keyboard-shortcut/issues/1#issue-1155153914</a>
+<a href = https://user-images.githubusercontent.com/97818720/156151530-2eaa20b0-3f07-41df-950e-79fea5e28cd3.png></a>
