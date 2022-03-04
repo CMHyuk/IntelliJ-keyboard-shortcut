@@ -25,3 +25,11 @@
 ![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156505373-c4478519-4525-4c2d-8e68-29bd38152981.png)
 
 ![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156505488-8c45b0cd-6bdf-48ef-96c5-07ab9815110d.png)
+
+
+
+* Alt + Insert : 생성자, Getter/Setter, 메서드 오버라이딩 등의  자동 생성
+
+
+
+![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156706862-f77c9279-5267-4101-bca2-7ab31e04a35c.png)
