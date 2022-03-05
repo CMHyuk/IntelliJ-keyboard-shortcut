@@ -6,7 +6,7 @@
 
 
 
-![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156506710-dd1dfddc-55ca-4d7c-b5d3-abbd7e1a70d6.png)
+![width="300px" height="150px"](https://user-images.githubusercontent.com/97818720/156506710-dd1dfddc-55ca-4d7c-b5d3-abbd7e1a70d6.png)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156151530-2eaa20b0-3f07-41df-950e-79fea5e28cd3.png)
+![width="300px" height="200px"](https://user-images.githubusercontent.com/97818720/156151530-2eaa20b0-3f07-41df-950e-79fea5e28cd3.png)
 
 
 
@@ -33,3 +33,12 @@
 
 
 ![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156706862-f77c9279-5267-4101-bca2-7ab31e04a35c.png)
+
+
+
+* Ctrl + Shift + Enter : 자동 콜론 생성
+
+
+
+![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156877681-b1821074-d694-477a-a47c-de36394b1bdd.png)
+![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156877654-95e7e8d5-b1a2-4c70-b017-961e515a1ddc.png)
