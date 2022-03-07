@@ -14,7 +14,7 @@
 
 
 
-![width="300px" height="200px"](https://user-images.githubusercontent.com/97818720/156151530-2eaa20b0-3f07-41df-950e-79fea5e28cd3.png)
+![width="250px" height="150px"](https://user-images.githubusercontent.com/97818720/156151530-2eaa20b0-3f07-41df-950e-79fea5e28cd3.png)
 
 
 
@@ -22,9 +22,9 @@
 
 
 
-![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156505373-c4478519-4525-4c2d-8e68-29bd38152981.png)
+![width="350px" height="150px"](https://user-images.githubusercontent.com/97818720/156505373-c4478519-4525-4c2d-8e68-29bd38152981.png)
 
-![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156505488-8c45b0cd-6bdf-48ef-96c5-07ab9815110d.png)
+![width="350px" height="150px"](https://user-images.githubusercontent.com/97818720/156505488-8c45b0cd-6bdf-48ef-96c5-07ab9815110d.png)
 
 
 
@@ -42,3 +42,12 @@
 
 ![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156877681-b1821074-d694-477a-a47c-de36394b1bdd.png)
 ![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/156877654-95e7e8d5-b1a2-4c70-b017-961e515a1ddc.png)
+
+
+
+
+* Alt + Enter : 좌측 전구 내용 확인
+
+
+
+![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/157035673-3314e7f5-ae36-4728-91a8-518376e8a451.png)
