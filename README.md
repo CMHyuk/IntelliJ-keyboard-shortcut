@@ -51,3 +51,11 @@
 
 
 ![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/157035673-3314e7f5-ae36-4728-91a8-518376e8a451.png)
+
+
+
+* Ctrl + Shift + T : 테스트코드 틀 생성
+
+
+
+![width="400px" height="200px"](https://user-images.githubusercontent.com/97818720/157664576-7c1fb9b1-a263-4bcf-bb97-2d5ce64ab8c4.png)
